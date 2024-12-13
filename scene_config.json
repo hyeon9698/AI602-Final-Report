@@ -1,0 +1,9 @@
+{
+    "/workspace/dataset/360_v2/bicycle/": "/workspace/SuGaR/output/vanilla_gs/bicycle/",
+    "/workspace/dataset/360_v2/bonsai/": "/workspace/SuGaR/output/vanilla_gs/bonsai/",
+    "/workspace/dataset/360_v2/counter/": "/workspace/SuGaR/output/vanilla_gs/counter/",
+    "/workspace/dataset/360_v2/garden/": "/workspace/SuGaR/output/vanilla_gs/garden/",
+    "/workspace/dataset/360_v2/kitchen/": "/workspace/SuGaR/output/vanilla_gs/kitchen/",
+    "/workspace/dataset/360_v2/room/": "/workspace/SuGaR/output/vanilla_gs/room/",
+    "/workspace/dataset/360_v2/stump/": "/workspace/SuGaR/output/vanilla_gs/stump/"    
+}

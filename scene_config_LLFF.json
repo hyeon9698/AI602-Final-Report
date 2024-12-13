@@ -1,0 +1,9 @@
+{
+    "/workspace/dataset/nerf_llff_data/fern/": "/workspace/SuGaR/output/vanilla_gs/fern/",
+    "/workspace/dataset/nerf_llff_data/flower/": "/workspace/SuGaR/output/vanilla_gs/flower/",
+    "/workspace/dataset/nerf_llff_data/fortress/": "/workspace/SuGaR/output/vanilla_gs/fortress/",
+    "/workspace/dataset/nerf_llff_data/horns/": "/workspace/SuGaR/output/vanilla_gs/horns/",
+    "/workspace/dataset/nerf_llff_data/leaves/": "/workspace/SuGaR/output/vanilla_gs/leaves/",
+    "/workspace/dataset/nerf_llff_data/orchids/": "/workspace/SuGaR/output/vanilla_gs/orchids/",
+    "/workspace/dataset/nerf_llff_data/trex/": "/workspace/SuGaR/output/vanilla_gs/trex/"    
+}
